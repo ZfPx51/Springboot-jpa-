@@ -12,4 +12,7 @@ server:
   port: 8006
   servlet:
     context-path: /SpringJpa
-
+rubbish:
+  url: http://coop.zjinsl.com
+  appid: 20201028
+  secret: i3bItUNb9w4E2x1q
