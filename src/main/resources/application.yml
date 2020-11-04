@@ -1,0 +1,15 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://47.103.159.97:5432/Spring_Jpa
+    username: postgres
+    password: 123456
+    driver-class-name: org.postgresql.Driver
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+server:
+  port: 8006
+  servlet:
+    context-path: /SpringJpa
+
